@@ -1,0 +1,16 @@
+Complex: 1gpk
+Predicted pK: 7.015
+True pK:      5.370
+
+Edge counts:
+  Total edges:    343
+  Cross edges:    285 (83.1%)
+  Lig-internal:   58 (16.9%)
+
+Top-10 edge analysis (by |Shapley value|):
+  Cross edges in top-10:         100.0%
+  Ligand-internal in top-10:     0.0%
+
+Mean |Shapley| per edge type:
+  Cross edges:    0.001251
+  Lig-internal:   0.000338
