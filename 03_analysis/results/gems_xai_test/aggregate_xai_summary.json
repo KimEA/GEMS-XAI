@@ -1,0 +1,11 @@
+{
+  "n_samples_explained": 3,
+  "top_k": 5,
+  "M_monte_carlo": 10,
+  "affinity_set": "all",
+  "mean_cross_frac_topk": 0.8666666666666667,
+  "mean_lig_frac_topk": 0.13333333333333333,
+  "mean_abs_shapley_cross": 0.0008770331385272459,
+  "mean_abs_shapley_lig": 0.0004959129855372521,
+  "cross_dominant_fraction": 1.0
+}
